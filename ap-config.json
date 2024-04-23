@@ -13,12 +13,7 @@
       "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/kind-fiche/ontwerpstandaard/2024-03-19/"
     }
   ],
-  "documentatie": [
-     {
-        "naam": "Vocabularium Kindfiche",
-        "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/kind-fiche/ontwerpstandaard/2024-03-19/"
-      }
-  ],
+  "documentatie": [],
   "charter": [
      {
         "naam": "Charter Kindfiche",
