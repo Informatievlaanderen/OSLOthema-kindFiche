@@ -12,7 +12,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "MijnKolom",
     "site": "site-skeleton/kind-fiche-ap",
-    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mijnThema/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-kindFiche/issues",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-kind-fiche.html"
   }
 ]
