@@ -32,25 +32,33 @@
      {
         "naam": "Verslag Thematische Werkgroep II - 9 april 2024",
         "waarde": "Thematische werkgroep 2 presentatie Kindfiche.pdf"
+      }, 
+     {
+        "naam": "Verslag Thematische Werkgroep III - 7 mei 2024",
+        "waarde": "Verslag Thematische Werkgroep 3 - OSLO Kindfiche.pdf"
       }
   ],
   "presentaties": [
       {
         "naam": "Presentatie Business Werkgroep -  13 februari 2024",
-        "waarde": "20240116_ThematicWorkshop1_Powerpoint_OSLOOverlijdensaangifte.pptx"
+        "waarde": "2.0 Business Werkgroep presentatie Kindfiche (1).pdf"
       }, 
     {
         "naam": "Presentatie Thematische Werkgroep I - 12 maart 2024",
-        "waarde": "20240116_ThematicWorkshop1_Powerpoint_OSLOOverlijdensaangifte.pptx"
+        "waarde": "Thematische werkgroep 1 presentatie Kindfiche (1).pdf"
       },
       {
         "naam": "Presentatie Thematische Werkgroep II - 9 april 2024",
-        "waarde": "20240220_ThematicWorkshop2_Powerpoint_OSLOOverlijdensaangifte.pptx"
+        "waarde": "Thematische werkgroep 2 presentatie Kindfiche.pdf"
+      },
+      {
+        "naam": "Presentatie Thematische Werkgroep III - 7 mei 2024",
+        "waarde": "Thematische werkgroep 3 presentatie OSLO Kindfiche.pdf"
       }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
   "organisatorisch_werkingsgebied": "Lokale besturen, alle entiteiten van de Vlaamse overheid, zorgsector",
-  "datum_van_aanmelding": "19 december 2024",
+  "datum_van_aanmelding": "19 december 2023",
   "erkenning_werkgroep_datastandaarden": "TBD",
   "erkenning_stuurgroep": "TBD"
 }
