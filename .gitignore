@@ -1,6 +1,6 @@
 .idea
-.target/
 .vscode/
 *.ldb
 *.xlsm
 report_*
+target/
