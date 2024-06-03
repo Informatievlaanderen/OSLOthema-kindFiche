@@ -4,3 +4,4 @@
 *.xlsm
 report_*
 target/
+report.jsonld
