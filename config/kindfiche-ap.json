@@ -2,7 +2,7 @@
   {
     "name": "kindfiche-ap",
     "type": "ap",
-    "eap": "Kindfiche-AP.eap",
+    "eap": "OSLO-Kindfiche.eap",
     "diagram": "OSLO-Kindfiche",
     "template": "kindfiche-ap.j2",
     "title": "Applicatieprofiel Kindfiche",
