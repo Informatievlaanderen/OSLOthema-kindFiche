@@ -2,6 +2,7 @@
 .vscode/
 *.ldb
 *.xlsm
+Kindfiche-AP-backup.eap
 report_*
-target/
 report.jsonld
+target/
