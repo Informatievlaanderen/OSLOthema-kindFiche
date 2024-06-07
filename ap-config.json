@@ -14,10 +14,15 @@
   "specificationDocuments": [
     {
       "name": "Applicatieprofiel Kindfiche",
-      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/kind-fiche/"
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/kindfiche/"
     }
   ],
-  "documentation": [],
+  "documentation": [
+    {
+      "name": "Vocabularium Kindfiche",
+      "resourceReference": "https://data.vlaanderen.be/ns/kindfiche/"
+    }
+  ],
   "reports": [
     {
       "name": "Verslag Business Werkgroep - 13 februari 2024",
