@@ -13,6 +13,22 @@
     "contributors-column": "MijnKolom",
     "site": "site-skeleton/kindfiche",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-kindFiche/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-kindfiche/"
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-kindfiche/",
+    "translation": [
+      {
+        "language": "nl",
+        "template": "kindfiche-ap.j2",
+        "title": "Applicatieprofiel Kindfiche",
+        "translationjson": "kindfiche-ap_nl.json",
+        "mergefile": "merge_kindfiche-ap_nl.jsonld"
+      },
+      {
+        "language": "en",
+        "template": "kindfiche-ap_en.j2",
+        "title": "Application profile Child Sheet",
+        "translationjson": "kindfiche-ap_en.json",
+        "mergefile": "merge_kindfiche-ap_en.jsonld"
+      }
+    ]
   }
 ]
